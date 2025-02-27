@@ -19,3 +19,10 @@ ahead: branch is ahead from remote one
 git push origin main   (used to push to main branch)
 
 push then we'll find the text file in 
+
+git stash ,stacked chages somewhere.
+
+git pop command
+
+merge conflict
+
