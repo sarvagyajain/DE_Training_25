@@ -25,4 +25,6 @@ git stash ,stacked chages somewhere.
 git pop command
 
 merge conflict
+ 
+cherry picking
 
