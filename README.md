@@ -25,6 +25,13 @@ git stash ,stacked chages somewhere.
 git pop command
 
 merge conflict
- 
+
 cherry picking
 
+git branch <branch name>
+
+git branch (to check branched)
+
+git switch <branch name>(branch must exist)
+
+git checkout <branch name>(new branch made and switched to that)
