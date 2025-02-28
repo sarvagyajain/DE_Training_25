@@ -30,7 +30,7 @@ cherry picking
 
 git branch <branch name>
 
-git branch (to check branched)
+git branch (to check branches)
 
 git switch <branch name>(branch must exist)
 
